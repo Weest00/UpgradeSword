@@ -1,0 +1,26 @@
+looting:
+  price: 100
+  multiplicator: 2
+unbreaking:
+  price: 200
+  multiplicator: 3
+fire-aspect:
+  price: 300
+  multiplicator: 5
+sharpness:
+  price: 700
+  multiplicator: 6
+knockback:
+  price: 1000
+  multiplicator: 7
+curse-of-vanishing:
+  price: 2000
+  multiplicator: 8
+mending:
+  price: 5000
+  multiplicator: 9
+sweeping-edge:
+  price: 20000
+  multiplicator: 11
+rename-sword:
+  price: 50
