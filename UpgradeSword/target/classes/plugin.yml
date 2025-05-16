@@ -1,5 +1,0 @@
-name: UpgradeSword
-version: '2.0-SNAPSHOT'
-main: net.dexter.UpgradeSword.Main
-depend: [Vault]
-api-version: '1.21'
